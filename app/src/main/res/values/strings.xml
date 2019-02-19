@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">XKCD</string>
+    <string name="num_date">#%1$d • %2$s</string>
 </resources>
